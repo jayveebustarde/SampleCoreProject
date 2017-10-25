@@ -1,0 +1,9 @@
+C:\OrderDirectory\DTO\bin\Debug\netcoreapp2.0\DTO.deps.json
+C:\OrderDirectory\DTO\bin\Debug\netcoreapp2.0\DTO.dll
+C:\OrderDirectory\DTO\bin\Debug\netcoreapp2.0\DTO.pdb
+C:\OrderDirectory\DTO\obj\Debug\netcoreapp2.0\DTO.csprojResolveAssemblyReference.cache
+C:\OrderDirectory\DTO\obj\Debug\netcoreapp2.0\DTO.csproj.CoreCompileInputs.cache
+C:\OrderDirectory\DTO\obj\Debug\netcoreapp2.0\DTO.AssemblyInfoInputs.cache
+C:\OrderDirectory\DTO\obj\Debug\netcoreapp2.0\DTO.AssemblyInfo.cs
+C:\OrderDirectory\DTO\obj\Debug\netcoreapp2.0\DTO.dll
+C:\OrderDirectory\DTO\obj\Debug\netcoreapp2.0\DTO.pdb
