@@ -8,6 +8,6 @@ namespace Entities
     {
         public int Id { get; set; }
         public DateTime CreatedDate { get; set; }
-        public DateTime? LastUpdatedDate { get; set; }
+        public DateTime LastUpdatedDate { get; set; }
     }
 }

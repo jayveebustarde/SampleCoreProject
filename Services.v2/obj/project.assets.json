@@ -3440,6 +3440,7 @@
     ".NETCoreApp,Version=v2.0": [
       "DTO >= 1.0.0",
       "DataAccess >= 1.0.0",
+      "Entities >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -3453,11 +3454,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\OrderDirectory\\Services\\Services.csproj",
-      "projectName": "Services",
-      "projectPath": "C:\\OrderDirectory\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\OrderDirectory\\Services.v2\\Services.v2.csproj",
+      "projectName": "Services.v2",
+      "projectPath": "C:\\OrderDirectory\\Services.v2\\Services.v2.csproj",
       "packagesPath": "C:\\Users\\Jayvee.Bustarde\\.nuget\\packages\\",
-      "outputPath": "C:\\OrderDirectory\\Services\\obj\\",
+      "outputPath": "C:\\OrderDirectory\\Services.v2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3481,6 +3482,9 @@
             },
             "C:\\OrderDirectory\\DataAccess\\DataAccess.csproj": {
               "projectPath": "C:\\OrderDirectory\\DataAccess\\DataAccess.csproj"
+            },
+            "C:\\OrderDirectory\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\OrderDirectory\\Entities\\Entities.csproj"
             }
           }
         }
@@ -3495,7 +3499,6 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "2.0.0",
             "autoReferenced": true
